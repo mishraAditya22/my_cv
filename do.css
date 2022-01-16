@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.upper_info h1{
+    text-align: center;
+    font-weight: bold;
+}
+.upper_info a{
+    text-decoration: none;
+    color: black;
+}
+.upper_info{
+    text-align: center;
+    word-spacing: 12px;
+}
+.upper_info img{
+    float: left ;
+    height: 75px;
+    height: 75px;
+}
+.semi_headings {
+    text-align: left;
+    color: black;
+    text-transform: capitalize;
+}
+.linkss ul li a{
+    text-decoration: none;
+}
+.linkss ul li{
+    list-style: none;
+    display: inline-block;
+}
+.link_right{
+    float: right;
+}
+.experience{
+    text-transform: capitalize;
+}
+#sep1{
+    text-align: right;
+    text-decoration: none;
+    color: gray;
+}
+#to_bottom{
+    text-align: right;
+}
+#to_bottom a{
+    text-decoration: none;
+    text-transform: capitalize;
+}

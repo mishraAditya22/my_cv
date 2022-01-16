@@ -1,0 +1,26 @@
+.nav_bar {
+    text-align:right;
+}
+.nav_bar a{
+    text-decoration: none;
+}
+.nav_bar a:hover{
+    color: aqua;
+    background-color: rgb(145, 179, 179);
+    padding: 4px;
+    margin: auto;
+}
+#headss{
+    text-align: center;
+    text-transform: uppercase;
+}
+.formss{
+    text-align: center;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.formss img{
+    float: right;
+    height:45%;
+    width:45%;
+}
